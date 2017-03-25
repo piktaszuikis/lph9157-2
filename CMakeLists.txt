@@ -7,9 +7,9 @@ macro(use_c99)
 	endif ()
 endmacro(use_c99)
 
+project(lph9157-2)
 use_c99()
 
-project(lph9157-2)
 add_executable(${PROJECT_NAME} "main.c")
 
 find_library(SOC_LIB soc)

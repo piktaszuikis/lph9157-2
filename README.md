@@ -8,7 +8,7 @@ There is also a userspace program version of this driver, you can find it on the
 
 ## Usage
 To compile the program you will need linux kernel > v4.11 and it's headers. Kernel must me compilled with `DRM_TINYDRM` and `TINYDRM_MIPI_DBI` enabled.
-To enable `TINYDRM_MIPI_DBI` you will most likely will have to enable `TINYDRM_MI0283QT` too.
+To enable `TINYDRM_MIPI_DBI` you will most likely have to enable `TINYDRM_MI0283QT` too.
 
 Compiling the module is as simple as typing `make`.
 

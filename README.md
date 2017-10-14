@@ -4,6 +4,8 @@ Program uses [libsoc](https://github.com/jackmitch/libsoc) library.
 
 More details about the project on http://piktas-zuikis.netlify.com/2017/03/18/lph9157-2/
 
+**NOTE:** There is a kernel module version of this prorgam, you can find it on the [branch 'module'](https://github.com/piktaszuikis/lph9157-2/tree/module).
+
 ## Usage
 To compile the program you will need cmake and libsoc witch in turn requires autotools and libtool.
 
